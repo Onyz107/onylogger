@@ -1,9 +1,10 @@
 package onylogger
 
 import (
-	"OnyLogger/internal/handlers"
 	"io"
 	"log/slog"
+
+	"github.com/Onyz107/onylogger/internal/handlers"
 )
 
 const (
