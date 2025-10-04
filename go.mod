@@ -1,3 +1,3 @@
-module OnyLogger
+module onylogger
 
 go 1.25
